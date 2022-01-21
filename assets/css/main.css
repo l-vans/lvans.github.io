@@ -1677,6 +1677,14 @@ input, select, textarea {
 		margin-bottom: auto;
 		border-color: rgb(155, 151, 141);
 	}
+	.flex-5 {
+		width: 250px;
+		margin: 10px;
+		border:3px solid #333;
+		font-size: 16px;
+		margin-bottom: auto;
+		border-color: rgb(155, 151, 141);
+	}
 	.name {
 		background-color: rgba(255, 255, 255, 0.075);		
 	}
